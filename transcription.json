@@ -1,0 +1,664 @@
+{
+  "metadata": {
+    "title": "貧人約瑟",
+    "catalogue_title": "貧人約瑟",
+    "roman_title": "Pin ren yue se",
+    "author": "俾士（George Piercy，據1876年費城展同號目錄歸屬）",
+    "date": "[約1851年？]，依 Serica 館目；印本無刊記。",
+    "location": "[香港]（刊地，館目推定）；英國牛津（現藏）",
+    "repository": "牛津大學博德利圖書館",
+    "repository_en": "Bodleian Libraries, University of Oxford",
+    "collection": "Sinica",
+    "shelfmark": "Sinica 1191",
+    "language": "lzh",
+    "catalogue": "https://digital.bodleian.ox.ac.uk/objects/dc3105b7-8b11-4fe5-8291-62dedc445da3/",
+    "rights": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "description": "《貧人約瑟》是書目推定約1851年在香港刊行的漢文宗教短篇。故事描寫倫敦傭工約瑟偶入禮拜堂、病中與教師對話，並在臨終前分出積蓄濟貧。牛津大學博德利圖書館藏本 Sinica 1191 封面留存編號164的費城百年展標籤，展覽書目按同號署俾士（George Piercy）。資料可供宗教小冊、漢文翻譯及十九世紀香港印刷史研究。",
+    "txt_reader_statement": "對開先讀右面再讀左面，各欄右至左。封籤、版心、館藏印記和後加鉛筆字另列，保留原欄序及原刻頓記。館方共6幅，正文在第2至5幅，共三葉六面。待定讀字附原圖位置。",
+    "tei_editorial_statement": "每幅連至館方 IIIF canvas 和影像，正文欄位、原刻標點、版心、封面附屬文字及疑讀分別保存。",
+    "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/dc3105b7-8b11-4fe5-8291-62dedc445da3.json",
+    "manifest_sha256": "4dbc62d48381867c5c2862a79539f85bc274ec15cfea99664d39a447cf781277",
+    "record_id": "SINICA1191",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "version": "0.1.0",
+    "dataset_title": "貧人約瑟（[香港，約1851年？]，牛津大學博德利圖書館 Sinica 1191） / Pin ren yue se [Poor Joseph]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a4dcb062-99ad-4721-9599-a4480f6ab8ed.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a4dcb062-99ad-4721-9599-a4480f6ab8ed/full/2000,/0/default.jpg",
+      "label": "Upper cover",
+      "file": "01.jpg",
+      "bytes": 1006770,
+      "sha256": "509caffe50ac16265143ef4e0c166e60a9b88cd969b7c6392f1b5b3b732f3f19",
+      "native_width": 4489,
+      "native_height": 5129,
+      "downloaded_width": 2000,
+      "downloaded_height": 2285,
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "貧人約瑟"
+            }
+          ],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "封面展覽標籤",
+              "text": "CENTENNIAL EXHIBITION.／China Protestant Mission.／No 164",
+              "column_anchor": 1,
+              "color": "unknown",
+              "lines": [
+                "CENTENNIAL EXHIBITION.",
+                "China Protestant Mission.",
+                "No 164"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面墨筆",
+              "text": "637 m",
+              "column_anchor": 1,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面鉛筆",
+              "text": "Sinica 1191／Ser. f. 173／Chin. 637 m",
+              "column_anchor": 1,
+              "color": "unknown",
+              "lines": [
+                "Sinica 1191",
+                "Ser. f. 173",
+                "Chin. 637 m"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 173」待核。"
+        }
+      ],
+      "observations": "單幅：黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 173」待核。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/17b29896-162c-4eda-8f56-b5762c02fe14.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/17b29896-162c-4eda-8f56-b5762c02fe14/full/2000,/0/default.jpg",
+      "label": "Inside upper cover and fol. 1r",
+      "file": "02.jpg",
+      "bytes": 1045883,
+      "sha256": "49da1fc33cc1977b3c83fef19b8e0638137ae8d4cf4b68d69f6b72668cd863da",
+      "native_width": 5031,
+      "native_height": 5160,
+      "downloaded_width": 2000,
+      "downloaded_height": 2051,
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "　　貧人約瑟"
+            },
+            {
+              "text": "有貧人、名約瑟、傭工為業、一日偶行倫頓街上、忽聞禮拜"
+            },
+            {
+              "text": "堂歌詩之聲、遂入焉、見有冠服熀耀者、集而聽道、教師宣"
+            },
+            {
+              "text": "講使徒保羅達提摩太前書第一章十五節云、有一言可"
+            },
+            {
+              "text": "信可嘉者、卽基督耶穌臨世救罪人、其中我乃元惡、云云、"
+            },
+            {
+              "text": "隨卽宣明福音乃可信者之意曰、最惡者、因造化萬物主"
+            },
+            {
+              "text": "耶穌之功勞、能得永生之救、使徒有云、貌為智為能為貴"
+            },
+            {
+              "text": "者、不多蒙召、乃上帝選世之不智、以愧智者、選世之不能、"
+            },
+            {
+              "text": "以愧能者也、維時聽道際、富貴之輩、有心不在焉者、有取"
+            },
+            {
+              "text": "於口給為悅者、惟約瑟藍縷而立、且奇且喜、目注心傾、歸"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心",
+              "text": "貧人約瑟／一",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "貧人約瑟",
+                "一"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "上緣鉛筆",
+              "text": "1.",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "下緣圓印",
+              "text": "BIBLIOTHECA BODLEIANA",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "約瑟",
+          "candidates": [],
+          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "倫頓",
+          "candidates": [],
+          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "保羅",
+          "candidates": [],
+          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "提摩太",
+          "candidates": [],
+          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "耶穌",
+          "candidates": [],
+          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "熀",
+          "candidates": [],
+          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "貌",
+          "candidates": [],
+          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
+        }
+      ],
+      "observations": "右面：前封內面無獨立文字；可見透印及殘墨。 左面：「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3/full/2000,/0/default.jpg",
+      "label": "fols. 1v 2r",
+      "file": "03.jpg",
+      "bytes": 1097496,
+      "sha256": "2c29e63c1b2658b6e6fdef4e2d500d36a3a8b0849eb2df10204f56218f2a50fe",
+      "native_width": 5031,
+      "native_height": 5160,
+      "downloaded_width": 2000,
+      "downloaded_height": 2051,
+      "content_role": "binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "時自語曰、約瑟於斯道、未之前聞也、造萬物之上帝、耶穌"
+            },
+            {
+              "text": "基督臨世救罪人、如我約瑟者、此乃眞而可信之言也、俄"
+            },
+            {
+              "text": "而約瑟患瘧疾甚篤、輾轉困頓於牀、常自語曰、約瑟乃罪"
+            },
+            {
+              "text": "人中之最大者、但耶穌基督臨世救罪人、是教約瑟愛之、"
+            },
+            {
+              "text": "其鄰人入見其狀、奇其所言、有問之者曰、約瑟爾心有好"
+            },
+            {
+              "text": "處否、曾受感化否、爾倚賴耶穌而信之否、答曰、約瑟不行"
+            },
+            {
+              "text": "好、不言己好、乃罪人中之最大者耳、但有可信之言、造萬"
+            },
+            {
+              "text": "物耶穌臨世救罪人、所以望得救也、有一人知其於聽道"
+            },
+            {
+              "text": "之時、已受滿心安慰、遂往請教師來見之、教師到時、約瑟"
+            },
+            {
+              "text": "已甚危殆、不能言語、旁人向彼說知、猶昏沉不醒、教師乃"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心",
+              "text": "貧人約瑟",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "就而與之言、約瑟乍聞其聲、卽時力疾起坐、緊握教師兩"
+            },
+            {
+              "text": "手、盛氣猛呼曰、先生、爾乃耶穌之友、昔時吾聽爾宣講、耶"
+            },
+            {
+              "text": "穌係好、約瑟乃罪人中之最大者、但有可信之言、耶穌基"
+            },
+            {
+              "text": "督卽造萬物者、臨世救罪人、所以約瑟望得救、敢請先生"
+            },
+            {
+              "text": "代我祈禱、求耶穌救我、稟告他知、約瑟自忖愛耶穌、因其"
+            },
+            {
+              "text": "臨世救罪人、如我約瑟者之故也、於是教師為之祈禱、旣"
+            },
+            {
+              "text": "畢、約瑟謝了、隨於枕底取一小囊、內有白金二十、遞送教"
+            },
+            {
+              "text": "師曰、約瑟本欲積財為養老計、今不獲永生、請將此金分"
+            },
+            {
+              "text": "贈耶穌貧寒之友、并求說知、約瑟因耶穌臨世救罪人、而"
+            },
+            {
+              "text": "約瑟乃最大者、所以分財於彼也、說畢遂伏枕而死、如此"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心",
+              "text": "貧人約瑟／二",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "貧人約瑟",
+                "二"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "上緣鉛筆",
+              "text": "2.",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "俄",
+          "candidates": [],
+          "note": "此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "瘧疾",
+          "candidates": [],
+          "note": "此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "狀",
+          "candidates": [],
+          "note": "此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "係",
+          "candidates": [],
+          "note": "第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "自忖",
+          "candidates": [],
+          "note": "第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "今不獲永生",
+          "candidates": [],
+          "note": "第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "獲",
+          "candidates": [],
+          "note": "第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
+        }
+      ],
+      "observations": "右面：此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。 左面：第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c498e473-d2b6-45fc-9ff8-0c0c272764fa.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/c498e473-d2b6-45fc-9ff8-0c0c272764fa/full/2000,/0/default.jpg",
+      "label": "fols. 2v 3r",
+      "file": "04.jpg",
+      "bytes": 1108845,
+      "sha256": "96284600152e732d95059666a0e389552554ca79b0347b3fa129e0b344b49973",
+      "native_width": 5031,
+      "native_height": 5160,
+      "downloaded_width": 2000,
+      "downloaded_height": 2051,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "可見約瑟信德之基、卽由此眞理而來、上帝化為人身、以"
+            },
+            {
+              "text": "救世人、信之者、心內得安慰喜樂、若有罪者、自知己罪、必"
+            },
+            {
+              "text": "忖惟全能之救主、方能救之、故悔悟而歸向耶穌、因耶穌"
+            },
+            {
+              "text": "卽恆久可頌之上帝、見其釘十字架無量之功勞、必信之"
+            },
+            {
+              "text": "而欣喜不勝、倚賴耶穌者必得救。因其血能代信者、滌除"
+            },
+            {
+              "text": "諸罪、恆在佑之、終不沉淪、無能奪之。"
+            },
+            {
+              "text": "信福音者、愛上帝、亦愛其民、約瑟受福音之言、非如世人"
+            },
+            {
+              "text": "之言、乃如上帝大用以救人之言、約瑟受感化而顯見於"
+            },
+            {
+              "text": "外、乃謂不言己好、彼知使徒所言者眞、謂我愛上帝、因上"
+            },
+            {
+              "text": "帝先愛我、彼請教師曰、代我祈禱、求耶穌救我、稟告他知、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心",
+              "text": "貧人約瑟",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "約瑟自忖愛耶穌、因其臨世救罪人、如我者之故也。彼見"
+            },
+            {
+              "text": "耶穌愛人之心、故熱心愛之、凡受上帝之大恩、必能遵上"
+            },
+            {
+              "text": "帝之旨、依耶穌之理而行、有如此者。約瑟愛上帝之民、因"
+            },
+            {
+              "text": "其為耶穌之友、故聽教師聲、乃曰、先生、爾乃耶穌之友、昔"
+            },
+            {
+              "text": "時吾聽爾宣講、耶穌係好、卽罄囊贈與耶穌貧寒之友、此"
+            },
+            {
+              "text": "皆其心之實証也。"
+            },
+            {
+              "text": "夫人之將死、惟福音之道、為能慰其心、然約瑟不以世俗"
+            },
+            {
+              "text": "之言自慰曰、吾雖無異於吾隣、然有恩憐之上帝、可得救"
+            },
+            {
+              "text": "也、乃約瑟惟倚賴耶穌贖罪之功勞、故於將死也、而有喜"
+            },
+            {
+              "text": "樂焉。如聖書云、我儕由信稱義、賴吾主耶穌基督和於上"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心",
+              "text": "貧人約瑟／三",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "貧人約瑟",
+                "三"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "上緣鉛筆",
+              "text": "3.／ult.",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "3.",
+                "ult."
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "之",
+          "candidates": [],
+          "note": "第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "忖",
+          "candidates": [],
+          "note": "第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。"
+        }
+      ],
+      "observations": "右面：第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。 左面：「實証」依底本。第六欄止於「也」，其餘留空。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/564da73c-4c07-4b0b-ac41-e114395c779b.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/564da73c-4c07-4b0b-ac41-e114395c779b/full/2000,/0/default.jpg",
+      "label": "fol. 3v and inside lower cover",
+      "file": "05.jpg",
+      "bytes": 887174,
+      "sha256": "ee5246ddadc01d708e070737b92cd56ddf401c09f10dcfc2bd66c32b58a9041e",
+      "native_width": 5031,
+      "native_height": 5160,
+      "downloaded_width": 2000,
+      "downloaded_height": 2051,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "帝、"
+            },
+            {
+              "text": "夫人之於死、可不謹防哉、然固有一死矣、乃旣死而又有"
+            },
+            {
+              "text": "訊鞫之事焉、不拜上帝者、不自慮其死者也、宜牢記而勿"
+            },
+            {
+              "text": "忘之、設今日死、而有所應得之報、請自量其所為、而接受"
+            },
+            {
+              "text": "福音之教、今有一言可信可嘉者、卽基督耶穌臨世救罪"
+            },
+            {
+              "text": "人之最惡者、舍此別無他主、蓋天下人間、更無錫他名、可"
+            },
+            {
+              "text": "以得救、當信主耶穌基督而得救矣。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心",
+              "text": "貧人約瑟／三",
+              "column_anchor": 7,
+              "color": "unknown",
+              "lines": [
+                "貧人約瑟",
+                "三"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "帝",
+          "candidates": [],
+          "note": "「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "上",
+          "candidates": [],
+          "note": "「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "鞫",
+          "candidates": [],
+          "note": "「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "矣。",
+          "candidates": [],
+          "note": "「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。"
+        }
+      ],
+      "observations": "右面：「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。 左面：後封內面無文字，摺封於右頁左側，未見遮到末欄。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/aaeb60ca-2e89-4afd-9580-378fceb15cd3.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/aaeb60ca-2e89-4afd-9580-378fceb15cd3/full/2000,/0/default.jpg",
+      "label": "Lower cover",
+      "file": "06.jpg",
+      "bytes": 866807,
+      "sha256": "c24d1a4e97c6c70c996f5b078fceaf2f2a2306d9cc39cf6cf707ff3d28c2e113",
+      "native_width": 4680,
+      "native_height": 5129,
+      "downloaded_width": 2000,
+      "downloaded_height": 2192,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：後封面無文字。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "historical_author": "俾士（George Piercy，展覽目錄歸屬）",
+  "source_identity": "Bodleian Libraries, University of Oxford, Sinica 1191",
+  "source": "https://digital.bodleian.ox.ac.uk/objects/dc3105b7-8b11-4fe5-8291-62dedc445da3/",
+  "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/dc3105b7-8b11-4fe5-8291-62dedc445da3.json",
+  "source_rights_policy": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 6,
+  "content_scan_count": 5,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a4dcb062-99ad-4721-9599-a4480f6ab8ed.json",
+      "label": "Upper cover",
+      "sha256": "509caffe50ac16265143ef4e0c166e60a9b88cd969b7c6392f1b5b3b732f3f19",
+      "content_role": "binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/17b29896-162c-4eda-8f56-b5762c02fe14.json",
+      "label": "Inside upper cover and fol. 1r",
+      "sha256": "49da1fc33cc1977b3c83fef19b8e0638137ae8d4cf4b68d69f6b72668cd863da",
+      "content_role": "binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3.json",
+      "label": "fols. 1v 2r",
+      "sha256": "2c29e63c1b2658b6e6fdef4e2d500d36a3a8b0849eb2df10204f56218f2a50fe",
+      "content_role": "binding"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c498e473-d2b6-45fc-9ff8-0c0c272764fa.json",
+      "label": "fols. 2v 3r",
+      "sha256": "96284600152e732d95059666a0e389552554ca79b0347b3fa129e0b344b49973",
+      "content_role": "author-text"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/564da73c-4c07-4b0b-ac41-e114395c779b.json",
+      "label": "fol. 3v and inside lower cover",
+      "sha256": "ee5246ddadc01d708e070737b92cd56ddf401c09f10dcfc2bd66c32b58a9041e",
+      "content_role": "author-text"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/aaeb60ca-2e89-4afd-9580-378fceb15cd3.json",
+      "label": "Lower cover",
+      "sha256": "c24d1a4e97c6c70c996f5b078fceaf2f2a2306d9cc39cf6cf707ff3d28c2e113",
+      "content_role": "author-text"
+    }
+  ]
+}

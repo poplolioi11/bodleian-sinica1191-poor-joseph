@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>貧人約瑟</title>
+        <title type="alternate">Pin ren yue se</title>
+        <author>俾士（George Piercy，據1876年費城展同號目錄歸屬）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>[香港]（刊地，館目推定）；英國牛津（現藏）</settlement>
+            <repository>牛津大學博德利圖書館</repository>
+            <collection>Sinica</collection>
+            <idno>Sinica 1191</idno>
+            <altIdentifier>
+              <idno>SINICA1191</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>《貧人約瑟》是書目推定約1851年在香港刊行的漢文宗教短篇。故事描寫倫敦傭工約瑟偶入禮拜堂、病中與教師對話，並在臨終前分出積蓄濟貧。牛津大學博德利圖書館藏本 Sinica 1191 封面留存編號164的費城百年展標籤，展覽書目按同號署俾士（George Piercy）。資料可供宗教小冊、漢文翻譯及十九世紀香港印刷史研究。</p>
+              <ref target="https://digital.bodleian.ox.ac.uk/objects/dc3105b7-8b11-4fe5-8291-62dedc445da3/">館方書目</ref>
+              <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/dc3105b7-8b11-4fe5-8291-62dedc445da3.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>[約1851年？]，依 Serica 館目；印本無刊記。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>每幅連至館方 IIIF canvas 和影像，正文欄位、原刻標點、版心、封面附屬文字及疑讀分別保存。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/a4dcb062-99ad-4721-9599-a4480f6ab8ed.json" xml:id="f01">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/a4dcb062-99ad-4721-9599-a4480f6ab8ed/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="2" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/17b29896-162c-4eda-8f56-b5762c02fe14.json" xml:id="f02">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/17b29896-162c-4eda-8f56-b5762c02fe14/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="3" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3.json" xml:id="f03">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="4" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/c498e473-d2b6-45fc-9ff8-0c0c272764fa.json" xml:id="f04">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/c498e473-d2b6-45fc-9ff8-0c0c272764fa/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="5" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/564da73c-4c07-4b0b-ac41-e114395c779b.json" xml:id="f05">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/564da73c-4c07-4b0b-ac41-e114395c779b/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="6" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/aaeb60ca-2e89-4afd-9580-378fceb15cd3.json" xml:id="f06">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/aaeb60ca-2e89-4afd-9580-378fceb15cd3/full/2000,/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="binding">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f01-s-c01">
+              <seg type="diplomatic-text">貧人約瑟</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-s-c01">
+              <label>封面展覽標籤</label>
+              <seg type="diplomatic-text" rend="unknown">CENTENNIAL EXHIBITION.／China Protestant Mission.／No 164</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-s-c01">
+              <label>封面墨筆</label>
+              <seg type="diplomatic-text" rend="unknown">637 m</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-s-c01">
+              <label>封面鉛筆</label>
+              <seg type="diplomatic-text" rend="unknown">Sinica 1191／Ser. f. 173／Chin. 637 m</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 173」待核。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote />
+              <note type="editorial">黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 173」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="binding">
+          <div type="page-face" n="right">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f02-l-c01">
+              <seg type="diplomatic-text">　　貧人約瑟</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-l-c02">
+              <seg type="diplomatic-text">有貧人、名約瑟、傭工為業、一日偶行倫頓街上、忽聞禮拜</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-l-c03">
+              <seg type="diplomatic-text">堂歌詩之聲、遂入焉、見有冠服熀耀者、集而聽道、教師宣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-l-c04">
+              <seg type="diplomatic-text">講使徒保羅達提摩太前書第一章十五節云、有一言可</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-l-c05">
+              <seg type="diplomatic-text">信可嘉者、卽基督耶穌臨世救罪人、其中我乃元惡、云云、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-l-c06">
+              <seg type="diplomatic-text">隨卽宣明福音乃可信者之意曰、最惡者、因造化萬物主</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-l-c07">
+              <seg type="diplomatic-text">耶穌之功勞、能得永生之救、使徒有云、貌為智為能為貴</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-l-c08">
+              <seg type="diplomatic-text">者、不多蒙召、乃上帝選世之不智、以愧智者、選世之不能、</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f02-l-c09">
+              <seg type="diplomatic-text">以愧能者也、維時聽道際、富貴之輩、有心不在焉者、有取</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f02-l-c10">
+              <seg type="diplomatic-text">於口給為悅者、惟約瑟藍縷而立、且奇且喜、目注心傾、歸</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f02-l-c10">
+              <label>左側版心</label>
+              <seg type="diplomatic-text" rend="unknown">貧人約瑟／一</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f02-l-c10">
+              <label>上緣鉛筆</label>
+              <seg type="diplomatic-text" rend="unknown">1.</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f02-l-c10">
+              <label>下緣圓印</label>
+              <seg type="diplomatic-text" rend="unknown">BIBLIOTHECA BODLEIANA</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：前封內面無獨立文字；可見透印及殘墨。 左面：「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>約瑟</quote>
+              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>倫頓</quote>
+              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>保羅</quote>
+              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>提摩太</quote>
+              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>耶穌</quote>
+              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>熀</quote>
+              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>貌</quote>
+              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="binding">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f03-r-c01">
+              <seg type="diplomatic-text">時自語曰、約瑟於斯道、未之前聞也、造萬物之上帝、耶穌</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-r-c02">
+              <seg type="diplomatic-text">基督臨世救罪人、如我約瑟者、此乃眞而可信之言也、俄</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-r-c03">
+              <seg type="diplomatic-text">而約瑟患瘧疾甚篤、輾轉困頓於牀、常自語曰、約瑟乃罪</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-r-c04">
+              <seg type="diplomatic-text">人中之最大者、但耶穌基督臨世救罪人、是教約瑟愛之、</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-r-c05">
+              <seg type="diplomatic-text">其鄰人入見其狀、奇其所言、有問之者曰、約瑟爾心有好</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-r-c06">
+              <seg type="diplomatic-text">處否、曾受感化否、爾倚賴耶穌而信之否、答曰、約瑟不行</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-r-c07">
+              <seg type="diplomatic-text">好、不言己好、乃罪人中之最大者耳、但有可信之言、造萬</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-r-c08">
+              <seg type="diplomatic-text">物耶穌臨世救罪人、所以望得救也、有一人知其於聽道</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f03-r-c09">
+              <seg type="diplomatic-text">之時、已受滿心安慰、遂往請教師來見之、教師到時、約瑟</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f03-r-c10">
+              <seg type="diplomatic-text">已甚危殆、不能言語、旁人向彼說知、猶昏沉不醒、教師乃</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f03-r-c10">
+              <label>右側版心</label>
+              <seg type="diplomatic-text" rend="unknown">貧人約瑟</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f03-l-c01">
+              <seg type="diplomatic-text">就而與之言、約瑟乍聞其聲、卽時力疾起坐、緊握教師兩</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-l-c02">
+              <seg type="diplomatic-text">手、盛氣猛呼曰、先生、爾乃耶穌之友、昔時吾聽爾宣講、耶</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-l-c03">
+              <seg type="diplomatic-text">穌係好、約瑟乃罪人中之最大者、但有可信之言、耶穌基</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-l-c04">
+              <seg type="diplomatic-text">督卽造萬物者、臨世救罪人、所以約瑟望得救、敢請先生</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-l-c05">
+              <seg type="diplomatic-text">代我祈禱、求耶穌救我、稟告他知、約瑟自忖愛耶穌、因其</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-l-c06">
+              <seg type="diplomatic-text">臨世救罪人、如我約瑟者之故也、於是教師為之祈禱、旣</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-l-c07">
+              <seg type="diplomatic-text">畢、約瑟謝了、隨於枕底取一小囊、內有白金二十、遞送教</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-l-c08">
+              <seg type="diplomatic-text">師曰、約瑟本欲積財為養老計、今不獲永生、請將此金分</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f03-l-c09">
+              <seg type="diplomatic-text">贈耶穌貧寒之友、并求說知、約瑟因耶穌臨世救罪人、而</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f03-l-c10">
+              <seg type="diplomatic-text">約瑟乃最大者、所以分財於彼也、說畢遂伏枕而死、如此</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f03-l-c10">
+              <label>左側版心</label>
+              <seg type="diplomatic-text" rend="unknown">貧人約瑟／二</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f03-l-c10">
+              <label>上緣鉛筆</label>
+              <seg type="diplomatic-text" rend="unknown">2.</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。 左面：第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>俄</quote>
+              <note type="editorial">此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>瘧疾</quote>
+              <note type="editorial">此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>狀</quote>
+              <note type="editorial">此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>係</quote>
+              <note type="editorial">第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>自忖</quote>
+              <note type="editorial">第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>今不獲永生</quote>
+              <note type="editorial">第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>獲</quote>
+              <note type="editorial">第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f04-r-c01">
+              <seg type="diplomatic-text">可見約瑟信德之基、卽由此眞理而來、上帝化為人身、以</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-r-c02">
+              <seg type="diplomatic-text">救世人、信之者、心內得安慰喜樂、若有罪者、自知己罪、必</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-r-c03">
+              <seg type="diplomatic-text">忖惟全能之救主、方能救之、故悔悟而歸向耶穌、因耶穌</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-r-c04">
+              <seg type="diplomatic-text">卽恆久可頌之上帝、見其釘十字架無量之功勞、必信之</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-r-c05">
+              <seg type="diplomatic-text">而欣喜不勝、倚賴耶穌者必得救。因其血能代信者、滌除</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-r-c06">
+              <seg type="diplomatic-text">諸罪、恆在佑之、終不沉淪、無能奪之。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-r-c07">
+              <seg type="diplomatic-text">信福音者、愛上帝、亦愛其民、約瑟受福音之言、非如世人</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-r-c08">
+              <seg type="diplomatic-text">之言、乃如上帝大用以救人之言、約瑟受感化而顯見於</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f04-r-c09">
+              <seg type="diplomatic-text">外、乃謂不言己好、彼知使徒所言者眞、謂我愛上帝、因上</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f04-r-c10">
+              <seg type="diplomatic-text">帝先愛我、彼請教師曰、代我祈禱、求耶穌救我、稟告他知、</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f04-r-c10">
+              <label>右側版心</label>
+              <seg type="diplomatic-text" rend="unknown">貧人約瑟</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">約瑟自忖愛耶穌、因其臨世救罪人、如我者之故也。彼見</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">耶穌愛人之心、故熱心愛之、凡受上帝之大恩、必能遵上</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">帝之旨、依耶穌之理而行、有如此者。約瑟愛上帝之民、因</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">其為耶穌之友、故聽教師聲、乃曰、先生、爾乃耶穌之友、昔</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">時吾聽爾宣講、耶穌係好、卽罄囊贈與耶穌貧寒之友、此</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06">
+              <seg type="diplomatic-text">皆其心之實証也。</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07">
+              <seg type="diplomatic-text">夫人之將死、惟福音之道、為能慰其心、然約瑟不以世俗</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-l-c08">
+              <seg type="diplomatic-text">之言自慰曰、吾雖無異於吾隣、然有恩憐之上帝、可得救</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f04-l-c09">
+              <seg type="diplomatic-text">也、乃約瑟惟倚賴耶穌贖罪之功勞、故於將死也、而有喜</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f04-l-c10">
+              <seg type="diplomatic-text">樂焉。如聖書云、我儕由信稱義、賴吾主耶穌基督和於上</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f04-l-c10">
+              <label>左側版心</label>
+              <seg type="diplomatic-text" rend="unknown">貧人約瑟／三</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c10">
+              <label>上緣鉛筆</label>
+              <seg type="diplomatic-text" rend="unknown">3.／ult.</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。 左面：「實証」依底本。第六欄止於「也」，其餘留空。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>之</quote>
+              <note type="editorial">第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>忖</quote>
+              <note type="editorial">第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">帝、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">夫人之於死、可不謹防哉、然固有一死矣、乃旣死而又有</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">訊鞫之事焉、不拜上帝者、不自慮其死者也、宜牢記而勿</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">忘之、設今日死、而有所應得之報、請自量其所為、而接受</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">福音之教、今有一言可信可嘉者、卽基督耶穌臨世救罪</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06">
+              <seg type="diplomatic-text">人之最惡者、舍此別無他主、蓋天下人間、更無錫他名、可</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07">
+              <seg type="diplomatic-text">以得救、當信主耶穌基督而得救矣。</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-r-c07">
+              <label>右側版心</label>
+              <seg type="diplomatic-text" rend="unknown">貧人約瑟／三</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。 左面：後封內面無文字，摺封於右頁左側，未見遮到末欄。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>帝</quote>
+              <note type="editorial">「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>上</quote>
+              <note type="editorial">「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>鞫</quote>
+              <note type="editorial">「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>矣。</quote>
+              <note type="editorial">「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="author-text">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：後封面無文字。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
