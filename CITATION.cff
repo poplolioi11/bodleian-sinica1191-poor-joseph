@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '貧人約瑟（[香港，約1851年？]，牛津大學博德利圖書館 Sinica 1191） / Pin ren yue se [Poor Joseph]:
   Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

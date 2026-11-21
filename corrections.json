@@ -1,0 +1,238 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 7,
+  "changes": [
+    {
+      "image": 2,
+      "side": "left",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "熀",
+      "after": "焜",
+      "reason": "原版左火右昆，右下兩比筆可見，定讀焜。",
+      "source_bbox": [
+        680,
+        910,
+        755,
+        1035
+      ],
+      "offset": [
+        14,
+        15
+      ],
+      "source_image_sha256": "49da1fc33cc1977b3c83fef19b8e0638137ae8d4cf4b68d69f6b72668cd863da",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/17b29896-162c-4eda-8f56-b5762c02fe14.json"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 2,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "倫頓",
+      "reason": "在原字右側見閉合細長框。",
+      "source_bbox": [
+        786,
+        1000,
+        812,
+        1088
+      ],
+      "source_image_sha256": "49da1fc33cc1977b3c83fef19b8e0638137ae8d4cf4b68d69f6b72668cd863da",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/17b29896-162c-4eda-8f56-b5762c02fe14.json"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "自慮",
+      "after": "自虞",
+      "reason": "字底有吳形二斜腳，無「慮」字心底點畫。",
+      "source_bbox": [
+        1674,
+        900,
+        1757,
+        1010
+      ],
+      "offset": [
+        13,
+        15
+      ],
+      "source_image_sha256": "ee5246ddadc01d708e070737b92cd56ddf401c09f10dcfc2bd66c32b58a9041e",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/564da73c-4c07-4b0b-ac41-e114395c779b.json"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "kind": "paratext",
+      "op": "update-reading",
+      "before": "Sinica 1191／Ser. f. 173／Chin. 637 m",
+      "after": "Sinica 1191／Ser. f. 113／Chin. 637 m",
+      "reason": "中段右側看似連寫雙豎末接三，與獨立觀察的113相合。仍以候讀處理。",
+      "source_bbox": [
+        522,
+        1310,
+        904,
+        1440
+      ],
+      "source_image_sha256": "509caffe50ac16265143ef4e0c166e60a9b88cd969b7c6392f1b5b3b732f3f19",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a4dcb062-99ad-4721-9599-a4480f6ab8ed.json"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "remove-supplied-text",
+      "before": "貧人約瑟",
+      "after": "",
+      "reason": "右側折口有殘線，所見無完整題名，上一面已錄。",
+      "source_bbox": [
+        1888,
+        342,
+        1927,
+        1220
+      ],
+      "source_image_sha256": "2c29e63c1b2658b6e6fdef4e2d500d36a3a8b0849eb2df10204f56218f2a50fe",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3.json"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "remove-supplied-text",
+      "before": "貧人約瑟",
+      "after": "",
+      "reason": "右側僅魚尾殘影，未見題名，按底本現況移除初錄補字。",
+      "source_bbox": [
+        1867,
+        347,
+        1925,
+        591
+      ],
+      "source_image_sha256": "96284600152e732d95059666a0e389552554ca79b0347b3fa129e0b344b49973",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c498e473-d2b6-45fc-9ff8-0c0c272764fa.json"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "update-reading",
+      "before": "貧人約瑟／三",
+      "after": "〔殘〕／三",
+      "reason": "右緣只露題名殘筆及魚尾。葉碼見三橫。",
+      "source_bbox": [
+        1870,
+        350,
+        1935,
+        1211
+      ],
+      "source_image_sha256": "ee5246ddadc01d708e070737b92cd56ddf401c09f10dcfc2bd66c32b58a9041e",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/564da73c-4c07-4b0b-ac41-e114395c779b.json"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a4dcb062-99ad-4721-9599-a4480f6ab8ed.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3.json",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 2,
+      "side": "left",
+      "column": 7,
+      "source_image_sha256": "49da1fc33cc1977b3c83fef19b8e0638137ae8d4cf4b68d69f6b72668cd863da",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/17b29896-162c-4eda-8f56-b5762c02fe14.json",
+      "reading": "貌為智",
+      "status": "依原圖留讀",
+      "reason": "左豸右皃可見，依底本保留。"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 2,
+      "source_image_sha256": "2c29e63c1b2658b6e6fdef4e2d500d36a3a8b0849eb2df10204f56218f2a50fe",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3.json",
+      "reading": "俄",
+      "status": "依原圖留讀",
+      "reason": "左旁單一亻，下一欄接「而」。"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 5,
+      "source_image_sha256": "2c29e63c1b2658b6e6fdef4e2d500d36a3a8b0849eb2df10204f56218f2a50fe",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3.json",
+      "reading": "自忖",
+      "status": "依原圖留讀",
+      "reason": "左忄右寸，豎鉤與點清楚。"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 8,
+      "source_image_sha256": "2c29e63c1b2658b6e6fdef4e2d500d36a3a8b0849eb2df10204f56218f2a50fe",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ec5d301-2d1b-49f8-b70d-f4b81fa903c3.json",
+      "reading": "今不獲永生",
+      "status": "依原圖留讀",
+      "reason": "不、獲皆可辨，保留原文。"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 3,
+      "source_image_sha256": "96284600152e732d95059666a0e389552554ca79b0347b3fa129e0b344b49973",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c498e473-d2b6-45fc-9ff8-0c0c272764fa.json",
+      "reading": "忖惟",
+      "status": "依原圖留讀",
+      "reason": "首字忄右寸，與同冊自忖字形同。"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 6,
+      "source_image_sha256": "96284600152e732d95059666a0e389552554ca79b0347b3fa129e0b344b49973",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c498e473-d2b6-45fc-9ff8-0c0c272764fa.json",
+      "reading": "實証",
+      "status": "依原圖留讀",
+      "reason": "左言右正，底本不用證。"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 3,
+      "source_image_sha256": "ee5246ddadc01d708e070737b92cd56ddf401c09f10dcfc2bd66c32b58a9041e",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/564da73c-4c07-4b0b-ac41-e114395c779b.json",
+      "reading": "訊鞫",
+      "status": "依原圖留讀",
+      "reason": "第二字右勹內從言。"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 7,
+      "source_image_sha256": "ee5246ddadc01d708e070737b92cd56ddf401c09f10dcfc2bd66c32b58a9041e",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/564da73c-4c07-4b0b-ac41-e114395c779b.json",
+      "reading": "矣。",
+      "status": "依原圖留讀",
+      "reason": "末字右下原有空心圈。"
+    }
+  ]
+}

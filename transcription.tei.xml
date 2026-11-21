@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -88,14 +88,16 @@
             </ab>
             <ab type="page-feature" subtype="copy-annotation" corresp="#f01-s-c01">
               <label>封面鉛筆</label>
-              <seg type="diplomatic-text" rend="unknown">Sinica 1191／Ser. f. 173／Chin. 637 m</seg>
+              <seg type="diplomatic-text" rend="unknown">Sinica 1191／Ser. f. 113／Chin. 637 m</seg>
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">單幅：黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 173」待核。</ab>
+            <ab type="layout">單幅：黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 113」為候讀。</ab>
             <ab type="transcription-issue" n="single:None">
-              <quote />
-              <note type="editorial">黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 173」待核。</note>
+              <quote>Ser. f. 113</quote>
+              <seg type="candidate">113</seg>
+              <seg type="candidate">173</seg>
+              <note type="editorial">前封橢圓鉛筆中的數字極淡，先採113為候讀。</note>
             </ab>
           </div>
         </div>
@@ -112,7 +114,7 @@
               <seg type="diplomatic-text">有貧人、名約瑟、傭工為業、一日偶行倫頓街上、忽聞禮拜</seg>
             </ab>
             <ab type="column" n="3" xml:id="f02-l-c03">
-              <seg type="diplomatic-text">堂歌詩之聲、遂入焉、見有冠服熀耀者、集而聽道、教師宣</seg>
+              <seg type="diplomatic-text">堂歌詩之聲、遂入焉、見有冠服焜耀者、集而聽道、教師宣</seg>
             </ab>
             <ab type="column" n="4" xml:id="f02-l-c04">
               <seg type="diplomatic-text">講使徒保羅達提摩太前書第一章十五節云、有一言可</seg>
@@ -147,37 +149,13 @@
               <label>下緣圓印</label>
               <seg type="diplomatic-text" rend="unknown">BIBLIOTHECA BODLEIANA</seg>
             </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f02-l-c02">
+              <label>第二欄地名旁細長空框</label>
+              <seg type="diplomatic-text" rend="black">倫頓</seg>
+            </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：前封內面無獨立文字；可見透印及殘墨。 左面：「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</ab>
-            <ab type="transcription-issue" n="left:None">
-              <quote>約瑟</quote>
-              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:2">
-              <quote>倫頓</quote>
-              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:4">
-              <quote>保羅</quote>
-              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:4">
-              <quote>提摩太</quote>
-              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:None">
-              <quote>耶穌</quote>
-              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:3">
-              <quote>熀</quote>
-              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:7">
-              <quote>貌</quote>
-              <note type="editorial">「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。</note>
-            </ab>
+            <ab type="layout">右面：前封內面無獨立文字，可見透印及殘墨。 左面：人名旁有直線，倫頓旁有細長空框。旁置黑色實點以頓記轉寫，較大的紙孔不轉記。</ab>
           </div>
         </div>
         <pb n="3" facs="#f03" />
@@ -212,10 +190,6 @@
             </ab>
             <ab type="column" n="10" xml:id="f03-r-c10">
               <seg type="diplomatic-text">已甚危殆、不能言語、旁人向彼說知、猶昏沉不醒、教師乃</seg>
-            </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f03-r-c10">
-              <label>右側版心</label>
-              <seg type="diplomatic-text" rend="unknown">貧人約瑟</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -259,34 +233,12 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。 左面：第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</ab>
-            <ab type="transcription-issue" n="right:2">
-              <quote>俄</quote>
-              <note type="editorial">此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。</note>
-            </ab>
+            <ab type="layout">右面：右側近折口只見版式殘線，左起書頁才有清楚版心。第三欄「瘧」保留候讀。 左面：「係」與「今不獲永生」按原刻保留。</ab>
             <ab type="transcription-issue" n="right:3">
-              <quote>瘧疾</quote>
-              <note type="editorial">此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:5">
-              <quote>狀</quote>
-              <note type="editorial">此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:3">
-              <quote>係</quote>
-              <note type="editorial">第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:5">
-              <quote>自忖</quote>
-              <note type="editorial">第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:8">
-              <quote>今不獲永生</quote>
-              <note type="editorial">第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:8">
-              <quote>獲</quote>
-              <note type="editorial">第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。</note>
+              <quote>瘧</quote>
+              <seg type="candidate">瘧</seg>
+              <seg type="candidate">瘻</seg>
+              <note type="editorial">病名字的疒內有淡損，瘧為候讀。</note>
             </ab>
           </div>
         </div>
@@ -322,10 +274,6 @@
             </ab>
             <ab type="column" n="10" xml:id="f04-r-c10">
               <seg type="diplomatic-text">帝先愛我、彼請教師曰、代我祈禱、求耶穌救我、稟告他知、</seg>
-            </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f04-r-c10">
-              <label>右側版心</label>
-              <seg type="diplomatic-text" rend="unknown">貧人約瑟</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -369,15 +317,7 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。 左面：「實証」依底本。第六欄止於「也」，其餘留空。</ab>
-            <ab type="transcription-issue" n="right:None">
-              <quote>之</quote>
-              <note type="editorial">第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:3">
-              <quote>忖</quote>
-              <note type="editorial">第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。</note>
-            </ab>
+            <ab type="layout">右面：第六欄止於「之」並留空，下一欄另起。 左面：「實証」按原刻。第六欄止於「也」並留空。</ab>
           </div>
         </div>
         <pb n="5" facs="#f05" />
@@ -390,7 +330,7 @@
               <seg type="diplomatic-text">夫人之於死、可不謹防哉、然固有一死矣、乃旣死而又有</seg>
             </ab>
             <ab type="column" n="3" xml:id="f05-r-c03">
-              <seg type="diplomatic-text">訊鞫之事焉、不拜上帝者、不自慮其死者也、宜牢記而勿</seg>
+              <seg type="diplomatic-text">訊鞫之事焉、不拜上帝者、不自虞其死者也、宜牢記而勿</seg>
             </ab>
             <ab type="column" n="4" xml:id="f05-r-c04">
               <seg type="diplomatic-text">忘之、設今日死、而有所應得之報、請自量其所為、而接受</seg>
@@ -406,30 +346,14 @@
             </ab>
             <ab type="page-feature" subtype="running-title" corresp="#f05-r-c07">
               <label>右側版心</label>
-              <seg type="diplomatic-text" rend="unknown">貧人約瑟／三</seg>
+              <seg type="diplomatic-text" rend="unknown">〔殘〕／三</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
             <ab type="no-transcribed-text" />
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。 左面：後封內面無文字，摺封於右頁左側，未見遮到末欄。</ab>
-            <ab type="transcription-issue" n="right:None">
-              <quote>帝</quote>
-              <note type="editorial">「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:3">
-              <quote>上</quote>
-              <note type="editorial">「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:3">
-              <quote>鞫</quote>
-              <note type="editorial">「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:7">
-              <quote>矣。</quote>
-              <note type="editorial">「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。</note>
-            </ab>
+            <ab type="layout">右面：首欄「帝」承上面末欄「上」，末欄「矣」右有原刻空圈。 左面：後封內面無文字，紙封摺幅未遮及最左一欄。</ab>
           </div>
         </div>
         <pb n="6" facs="#f06" />

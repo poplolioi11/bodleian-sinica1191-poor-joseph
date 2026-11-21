@@ -4,11 +4,11 @@
 
 Pin ren yue se (Poor Joseph) is a Literary Chinese tract catalogued as published in Hong Kong around 1851. It follows a London labourer who hears a sermon by chance and, in his final illness, arranges to give part of his savings to people in need. The Bodleian Libraries copy, Sinica 1191, bears a Philadelphia Centennial Exhibition label numbered 164 that matches the catalogue’s attribution to George Piercy. The text supports research on missionary tracts, Chinese translation, and nineteenth-century Hong Kong printing.
 
-## V0.1.0
+## V0.2.0
 
-6 幅館方影像中含封面及三葉六面正文，附封籤、版心、印記與後加題識。提供逐欄對應原圖的 TXT、JSON 和 TEI XML。AI 輔助轉錄，疑讀附原圖定位。尚未經人類全文雙校或專家審定。
+6 幅館方影像中含封面及三葉六面正文，附封籤、版心、印記與後加題識。提供逐欄對應原圖的 TXT、JSON 和 TEI XML。比對獨立原圖讀法後回圖裁定，採用 7 筆訂正，留存疑讀定位。
 
-The dataset covers all six source images, including the cover and the six printed faces on three leaves. TXT, JSON and TEI XML link the transcription, title slip, running titles and copy-specific marks to the images. AI-assisted transcription with image-linked uncertain readings. Full human double proofreading and specialist review have not been performed.
+The dataset covers all six source images, including the cover and the six printed faces on three leaves. TXT, JSON and TEI XML link the transcription, title slip, running titles and copy-specific marks to the images. An independent image reading was compared with the first transcription. Source-image adjudication adopted 7 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

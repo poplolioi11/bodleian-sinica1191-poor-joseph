@@ -19,16 +19,16 @@
     "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/dc3105b7-8b11-4fe5-8291-62dedc445da3.json",
     "manifest_sha256": "4dbc62d48381867c5c2862a79539f85bc274ec15cfea99664d39a447cf781277",
     "record_id": "SINICA1191",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       2,
       3,
       4,
       5
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "貧人約瑟（[香港，約1851年？]，牛津大學博德利圖書館 Sinica 1191） / Pin ren yue se [Poor Joseph]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -48,7 +48,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2285,
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",
@@ -80,12 +80,12 @@
             {
               "type": "copy-annotation",
               "location": "封面鉛筆",
-              "text": "Sinica 1191／Ser. f. 173／Chin. 637 m",
+              "text": "Sinica 1191／Ser. f. 113／Chin. 637 m",
               "column_anchor": 1,
               "color": "unknown",
               "lines": [
                 "Sinica 1191",
-                "Ser. f. 173",
+                "Ser. f. 113",
                 "Chin. 637 m"
               ]
             }
@@ -96,12 +96,15 @@
         {
           "side": "single",
           "column": null,
-          "context": "",
-          "candidates": [],
-          "note": "黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 173」待核。"
+          "context": "Ser. f. 113",
+          "candidates": [
+            "113",
+            "173"
+          ],
+          "note": "前封橢圓鉛筆中的數字極淡，先採113為候讀。"
         }
       ],
-      "observations": "單幅：黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 173」待核。"
+      "observations": "單幅：黃底書名籤與另貼英文展覽標籤。英文「No」後的「164」為手寫。鉛筆「Ser. f. 113」為候讀。"
     },
     {
       "image": 2,
@@ -116,7 +119,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2051,
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -133,7 +136,7 @@
               "text": "有貧人、名約瑟、傭工為業、一日偶行倫頓街上、忽聞禮拜"
             },
             {
-              "text": "堂歌詩之聲、遂入焉、見有冠服熀耀者、集而聽道、教師宣"
+              "text": "堂歌詩之聲、遂入焉、見有冠服焜耀者、集而聽道、教師宣"
             },
             {
               "text": "講使徒保羅達提摩太前書第一章十五節云、有一言可"
@@ -182,62 +185,25 @@
               "text": "BIBLIOTHECA BODLEIANA",
               "column_anchor": 10,
               "color": "unknown"
+            },
+            {
+              "type": "name-line",
+              "text": "倫頓",
+              "location": "第二欄地名旁細長空框",
+              "column_anchor": 2,
+              "color": "black",
+              "source_bbox": [
+                786,
+                1000,
+                812,
+                1088
+              ]
             }
           ]
         }
       ],
-      "issues": [
-        {
-          "side": "left",
-          "column": null,
-          "context": "約瑟",
-          "candidates": [],
-          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
-        },
-        {
-          "side": "left",
-          "column": 2,
-          "context": "倫頓",
-          "candidates": [],
-          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
-        },
-        {
-          "side": "left",
-          "column": 4,
-          "context": "保羅",
-          "candidates": [],
-          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
-        },
-        {
-          "side": "left",
-          "column": 4,
-          "context": "提摩太",
-          "candidates": [],
-          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
-        },
-        {
-          "side": "left",
-          "column": null,
-          "context": "耶穌",
-          "candidates": [],
-          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
-        },
-        {
-          "side": "left",
-          "column": 3,
-          "context": "熀",
-          "candidates": [],
-          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
-        },
-        {
-          "side": "left",
-          "column": 7,
-          "context": "貌",
-          "candidates": [],
-          "note": "「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
-        }
-      ],
-      "observations": "右面：前封內面無獨立文字；可見透印及殘墨。 左面：「約瑟」「倫頓」「保羅」「提摩太」「耶穌」等有直線或框形標記。引文旁黑撇與句圈照見轉記。第三欄「熀」字及第七欄「貌」待核。"
+      "issues": [],
+      "observations": "右面：前封內面無獨立文字，可見透印及殘墨。 左面：人名旁有直線，倫頓旁有細長空框。旁置黑色實點以頓記轉寫，較大的紙孔不轉記。"
     },
     {
       "image": 3,
@@ -252,7 +218,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2051,
       "content_role": "binding",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -288,15 +254,7 @@
               "text": "已甚危殆、不能言語、旁人向彼說知、猶昏沉不醒、教師乃"
             }
           ],
-          "extras": [
-            {
-              "type": "running-title",
-              "location": "右側版心",
-              "text": "貧人約瑟",
-              "column_anchor": 10,
-              "color": "unknown"
-            }
-          ]
+          "extras": []
         },
         {
           "side": "left",
@@ -357,55 +315,16 @@
       "issues": [
         {
           "side": "right",
-          "column": 2,
-          "context": "俄",
-          "candidates": [],
-          "note": "此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。"
-        },
-        {
-          "side": "right",
           "column": 3,
-          "context": "瘧疾",
-          "candidates": [],
-          "note": "此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。"
-        },
-        {
-          "side": "right",
-          "column": 5,
-          "context": "狀",
-          "candidates": [],
-          "note": "此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。"
-        },
-        {
-          "side": "left",
-          "column": 3,
-          "context": "係",
-          "candidates": [],
-          "note": "第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
-        },
-        {
-          "side": "left",
-          "column": 5,
-          "context": "自忖",
-          "candidates": [],
-          "note": "第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
-        },
-        {
-          "side": "left",
-          "column": 8,
-          "context": "今不獲永生",
-          "candidates": [],
-          "note": "第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
-        },
-        {
-          "side": "left",
-          "column": 8,
-          "context": "獲",
-          "candidates": [],
-          "note": "第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
+          "context": "瘧",
+          "candidates": [
+            "瘧",
+            "瘻"
+          ],
+          "note": "病名字的疒內有淡損，瘧為候讀。"
         }
       ],
-      "observations": "右面：此面右緣至版心切線，版題已在上一面可見。第二欄末「俄」待核；第三欄「瘧疾」按初讀，第五欄「狀」按原字不改。 左面：第三欄「係」保留。第五欄「自忖」待核。第八欄「今不獲永生」文意可疑，按字形保留，請核「獲」。"
+      "observations": "右面：右側近折口只見版式殘線，左起書頁才有清楚版心。第三欄「瘧」保留候讀。 左面：「係」與「今不獲永生」按原刻保留。"
     },
     {
       "image": 4,
@@ -420,7 +339,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2051,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -456,15 +375,7 @@
               "text": "帝先愛我、彼請教師曰、代我祈禱、求耶穌救我、稟告他知、"
             }
           ],
-          "extras": [
-            {
-              "type": "running-title",
-              "location": "右側版心",
-              "text": "貧人約瑟",
-              "column_anchor": 10,
-              "color": "unknown"
-            }
-          ]
+          "extras": []
         },
         {
           "side": "left",
@@ -526,23 +437,8 @@
           ]
         }
       ],
-      "issues": [
-        {
-          "side": "right",
-          "column": null,
-          "context": "之",
-          "candidates": [],
-          "note": "第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。"
-        },
-        {
-          "side": "right",
-          "column": 3,
-          "context": "忖",
-          "candidates": [],
-          "note": "第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。"
-        }
-      ],
-      "observations": "右面：第六欄止於「之」，其餘留空，左起另段。第三欄首字「忖」待核。 左面：「實証」依底本。第六欄止於「也」，其餘留空。"
+      "issues": [],
+      "observations": "右面：第六欄止於「之」並留空，下一欄另起。 左面：「實証」按原刻。第六欄止於「也」並留空。"
     },
     {
       "image": 5,
@@ -557,7 +453,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2051,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -569,7 +465,7 @@
               "text": "夫人之於死、可不謹防哉、然固有一死矣、乃旣死而又有"
             },
             {
-              "text": "訊鞫之事焉、不拜上帝者、不自慮其死者也、宜牢記而勿"
+              "text": "訊鞫之事焉、不拜上帝者、不自虞其死者也、宜牢記而勿"
             },
             {
               "text": "忘之、設今日死、而有所應得之報、請自量其所為、而接受"
@@ -588,11 +484,11 @@
             {
               "type": "running-title",
               "location": "右側版心",
-              "text": "貧人約瑟／三",
+              "text": "〔殘〕／三",
               "column_anchor": 7,
               "color": "unknown",
               "lines": [
-                "貧人約瑟",
+                "〔殘〕",
                 "三"
               ]
             }
@@ -604,37 +500,8 @@
           "extras": []
         }
       ],
-      "issues": [
-        {
-          "side": "right",
-          "column": null,
-          "context": "帝",
-          "candidates": [],
-          "note": "「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。"
-        },
-        {
-          "side": "right",
-          "column": 3,
-          "context": "上",
-          "candidates": [],
-          "note": "「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。"
-        },
-        {
-          "side": "right",
-          "column": 3,
-          "context": "鞫",
-          "candidates": [],
-          "note": "「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。"
-        },
-        {
-          "side": "right",
-          "column": 7,
-          "context": "矣。",
-          "candidates": [],
-          "note": "「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。"
-        }
-      ],
-      "observations": "右面：「帝」承上一面末欄「上」。第三欄「鞫」待核。末欄止於「矣。」。 左面：後封內面無文字，摺封於右頁左側，未見遮到末欄。"
+      "issues": [],
+      "observations": "右面：首欄「帝」承上面末欄「上」，末欄「矣」右有原刻空圈。 左面：後封內面無文字，紙封摺幅未遮及最左一欄。"
     },
     {
       "image": 6,
@@ -649,7 +516,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2192,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",
